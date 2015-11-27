@@ -1,6 +1,9 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+Group project using React. 
+Sign In using username: brucelee password: brucelee  
+
+https://fe-admin.surge.sh/#welcome
 
 
 ## Usage
